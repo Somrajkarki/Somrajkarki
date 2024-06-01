@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This repository is in construction. Thank you for your patience.
+This repository is under construction. Thank you for your patience.
 
 ![Working](Assets/[under-construction90s-90s.gif](https://github.com/Somrajkarki/Somrajkarki/blob/main/Assests/under-construction90s-90s.gif?raw=true))
 
