@@ -2,7 +2,7 @@
 
 This repository is in construction. Thank you for your patience.
 
-![Your GIF Description]((https://github.com/Somrajkarki/Somrajkarki/blob/main/Assests/under-construction90s-90s.gif))
+![Your GIF Description](Assets/under-construction90s-90s.gif)
 
 
 <!--
