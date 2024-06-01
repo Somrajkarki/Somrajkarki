@@ -2,7 +2,7 @@
 
 This repository is in construction. Thank you for your patience.
 
-![Your GIF Description]([https://link_to_your_gif.com/animated.gif](https://github.com/Somrajkarki/Somrajkarki/blob/main/Assests/under-construction90s-90s.gif))
+![Your GIF Description]((https://github.com/Somrajkarki/Somrajkarki/blob/main/Assests/under-construction90s-90s.gif))
 
 
 <!--
