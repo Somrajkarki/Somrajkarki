@@ -2,7 +2,8 @@
 
 This repository is in construction. Thank you for your patience.
 
-![Your Image Description]([https://link_to_your_image.com/image.png](https://media.tenor.com/MRCIli40TYoAAAAj/under-construction90s-90s.gif))
+![Your GIF Description]([https://link_to_your_gif.com/animated.gif](https://github.com/Somrajkarki/Somrajkarki/blob/main/Assests/under-construction90s-90s.gif))
+
 
 <!--
 **Somrajkarki/Somrajkarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
