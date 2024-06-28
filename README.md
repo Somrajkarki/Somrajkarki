@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This repository is under construction. Thank you for your patience.
+This profile is under construction. Thank you for your patience.
 
 ![Working](https://media.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif)
 
