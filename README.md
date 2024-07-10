@@ -17,6 +17,6 @@
 
 Feel free to explore my repositories and reach out! Let's connect and collaborate. 😊
 
-[![Somrajkarki's GitHub | Stats](https://stats.quira.sh/Somrajkarki/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somrajkarki) 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Somrajkarki&show_icons=true&locale=en" alt="dravid-nagi" /></p>
 [![Somrajkarki's GitHub | Languages Over Time](https://stats.quira.sh/Somrajkarki/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somrajkarki)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Somrajkarki&show_icons=true&locale=en" alt="dravid-nagi" /></p>
+
