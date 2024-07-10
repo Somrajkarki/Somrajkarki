@@ -18,4 +18,5 @@
 Feel free to explore my repositories and reach out! Let's connect and collaborate. 😊
 
 [![Somrajkarki's GitHub | Stats](https://stats.quira.sh/Somrajkarki/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somrajkarki) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Somrajkarki's GitHub | Languages Over Time](https://stats.quira.sh/Somrajkarki/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somrajkarki)
