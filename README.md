@@ -16,3 +16,5 @@
 - Other Skills: Machine Learning, Data Science
 
 Feel free to explore my repositories and reach out! Let's connect and collaborate. 😊
+
+[![Somrajkarki's GitHub | Stats](https://stats.quira.sh/Somrajkarki/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somrajkarki)
